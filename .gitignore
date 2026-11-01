@@ -1,0 +1,21 @@
+# dependencies and build output
+node_modules
+dist
+dist-server
+
+# local tooling / editor config
+.claude/
+.vercel
+
+# environment
+.env
+.env.*
+!.env.example
+
+# OS cruft
+.DS_Store
+Thumbs.db
+*.local
+
+# raw photo originals. processed .webp files live in public/images
+images-raw/

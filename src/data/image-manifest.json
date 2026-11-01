@@ -1,0 +1,266 @@
+{
+    "/images/gear/aputure-300x.webp": {
+        "w": 1088,
+        "h": 1600,
+        "sm": {
+            "w": 653,
+            "h": 960
+        }
+    },
+    "/images/gear/aputure-600d-pro.webp": {
+        "w": 610,
+        "h": 759,
+        "sm": {
+            "w": 610,
+            "h": 759
+        }
+    },
+    "/images/gear/aputure-lantern-90.webp": {
+        "w": 722,
+        "h": 691,
+        "sm": {
+            "w": 720,
+            "h": 689
+        }
+    },
+    "/images/gear/aputure-light-dome-3.webp": {
+        "w": 544,
+        "h": 717,
+        "sm": {
+            "w": 544,
+            "h": 717
+        }
+    },
+    "/images/gear/aputure-mc-kit.webp": {
+        "w": 696,
+        "h": 688,
+        "sm": {
+            "w": 696,
+            "h": 688
+        }
+    },
+    "/images/gear/arri-fresnel-kit.webp": {
+        "w": 1600,
+        "h": 1200,
+        "sm": {
+            "w": 720,
+            "h": 540
+        }
+    },
+    "/images/gear/arri-scrims.webp": {
+        "w": 1200,
+        "h": 1600,
+        "sm": {
+            "w": 720,
+            "h": 960
+        }
+    },
+    "/images/gear/avenger-c-stand.webp": {
+        "w": 536,
+        "h": 974,
+        "sm": {
+            "w": 528,
+            "h": 960
+        }
+    },
+    "/images/gear/blackmagic-6k-kit.webp": {
+        "w": 1200,
+        "h": 1600,
+        "sm": {
+            "w": 720,
+            "h": 960
+        }
+    },
+    "/images/gear/camera-rig.webp": {
+        "w": 1600,
+        "h": 1200,
+        "sm": {
+            "w": 720,
+            "h": 540
+        }
+    },
+    "/images/gear/canon-70-200.webp": {
+        "w": 370,
+        "h": 226,
+        "sm": {
+            "w": 370,
+            "h": 226
+        }
+    },
+    "/images/gear/dji-fpv.webp": {
+        "w": 1600,
+        "h": 1200,
+        "sm": {
+            "w": 720,
+            "h": 540
+        }
+    },
+    "/images/gear/dji-rs-gimbal.webp": {
+        "w": 1125,
+        "h": 1564,
+        "sm": {
+            "w": 691,
+            "h": 960
+        }
+    },
+    "/images/gear/glide-gear-tmp100.webp": {
+        "w": 1457,
+        "h": 1087,
+        "sm": {
+            "w": 720,
+            "h": 537
+        }
+    },
+    "/images/gear/gopro-hero.webp": {
+        "w": 1125,
+        "h": 927,
+        "sm": {
+            "w": 720,
+            "h": 593
+        }
+    },
+    "/images/gear/laowa-probe.webp": {
+        "w": 1600,
+        "h": 1022,
+        "sm": {
+            "w": 720,
+            "h": 460
+        }
+    },
+    "/images/gear/matthews-6x6-frame.webp": {
+        "w": 932,
+        "h": 1600,
+        "sm": {
+            "w": 559,
+            "h": 960
+        }
+    },
+    "/images/gear/matthews-apple-box.webp": {
+        "w": 789,
+        "h": 1324,
+        "sm": {
+            "w": 572,
+            "h": 960
+        }
+    },
+    "/images/gear/matthews-sandbag.webp": {
+        "w": 1600,
+        "h": 1182,
+        "sm": {
+            "w": 720,
+            "h": 532
+        }
+    },
+    "/images/gear/metabones-ef-e.webp": {
+        "w": 590,
+        "h": 670,
+        "sm": {
+            "w": 590,
+            "h": 670
+        }
+    },
+    "/images/gear/rycote-windshield.webp": {
+        "w": 790,
+        "h": 623,
+        "sm": {
+            "w": 720,
+            "h": 568
+        }
+    },
+    "/images/gear/sachtler-fsb8.webp": {
+        "w": 626,
+        "h": 1032,
+        "sm": {
+            "w": 582,
+            "h": 960
+        }
+    },
+    "/images/gear/sennheiser-g4-lav.webp": {
+        "w": 762,
+        "h": 612,
+        "sm": {
+            "w": 720,
+            "h": 578
+        }
+    },
+    "/images/gear/sennheiser-mkh-416.webp": {
+        "w": 1600,
+        "h": 598,
+        "sm": {
+            "w": 720,
+            "h": 269
+        }
+    },
+    "/images/gear/sigma-18-35.webp": {
+        "w": 463,
+        "h": 864,
+        "sm": {
+            "w": 463,
+            "h": 864
+        }
+    },
+    "/images/gear/smallhd-indie-7.webp": {
+        "w": 1600,
+        "h": 1142,
+        "sm": {
+            "w": 720,
+            "h": 514
+        }
+    },
+    "/images/gear/sony-24-70-gm2.webp": {
+        "w": 1296,
+        "h": 865,
+        "sm": {
+            "w": 720,
+            "h": 481
+        }
+    },
+    "/images/gear/sony-a7s3.webp": {
+        "w": 1296,
+        "h": 934,
+        "sm": {
+            "w": 720,
+            "h": 519
+        }
+    },
+    "/images/gear/sony-fx3.webp": {
+        "w": 1296,
+        "h": 837,
+        "sm": {
+            "w": 720,
+            "h": 465
+        }
+    },
+    "/images/gear/tiffen-pro-mist.webp": {
+        "w": 627,
+        "h": 906,
+        "sm": {
+            "w": 627,
+            "h": 906
+        }
+    },
+    "/images/gear/wireless-follow-focus.webp": {
+        "w": 1600,
+        "h": 1200,
+        "sm": {
+            "w": 720,
+            "h": 540
+        }
+    },
+    "/images/gear/xlr-cable.webp": {
+        "w": 1543,
+        "h": 660,
+        "sm": {
+            "w": 720,
+            "h": 308
+        }
+    },
+    "/images/gear/zoom-f6.webp": {
+        "w": 1416,
+        "h": 1354,
+        "sm": {
+            "w": 720,
+            "h": 688
+        }
+    }
+}

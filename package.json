@@ -1,0 +1,43 @@
+{
+    "name": "robs-rentals",
+    "private": true,
+    "version": "0.1.0",
+    "type": "module",
+    "description": "Preview website for Rob's Rentals (Rob's Film & Photo), a by-appointment camera, lighting and audio rental house at 133 Woodbine St, Bushwick, Brooklyn. Built by GradientV.",
+    "engines": {
+        "node": ">=22.18"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "npm run typecheck && npm run build:client && npm run build:server && npm run prerender",
+        "build:client": "vite build",
+        "build:server": "vite build --ssr src/entry-server.tsx --outDir dist-server",
+        "prerender": "node scripts/prerender.ts",
+        "preview": "vite preview",
+        "typecheck": "tsc -b",
+        "lint": "oxlint",
+        "images": "node scripts/optimize-images.ts",
+        "textures": "node scripts/textures.ts",
+        "brand": "node scripts/brand-assets.ts"
+    },
+    "dependencies": {
+        "@fontsource-variable/instrument-sans": "^5.3.0",
+        "@fontsource-variable/league-gothic": "^5.3.0",
+        "@fontsource/ibm-plex-mono": "^5.3.0",
+        "react": "^19.3.1",
+        "react-dom": "^19.3.1",
+        "react-router": "^8.5.1"
+    },
+    "devDependencies": {
+        "@tailwindcss/vite": "^4.3.3",
+        "@types/node": "^24.19.2",
+        "@types/react": "^19.3.0",
+        "@types/react-dom": "^19.3.0",
+        "@vitejs/plugin-react": "^6.1.2",
+        "oxlint": "^1.90.0",
+        "sharp": "^0.35.5",
+        "tailwindcss": "^4.3.3",
+        "typescript": "~6.0.3",
+        "vite": "^8.3.5"
+    }
+}
