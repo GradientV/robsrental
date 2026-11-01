@@ -4,7 +4,6 @@ dist
 dist-server
 
 # local tooling / editor config
-.claude/
 .vercel
 
 # environment
@@ -19,3 +18,10 @@ Thumbs.db
 
 # raw photo originals. processed .webp files live in public/images
 images-raw/
+
+# Notes, research and AI agent files: kept on this computer, never pushed
+AGENTS.md
+AGENTS-TEMPLATE/
+RESEARCH.md
+/context/
+/Context/
