@@ -4,7 +4,7 @@
 // Profile (Aug 2022), cropped to fill.
 // 'stock': a product image on white, shown whole. three of them (GoPro, DJI gimbal,
 // Aputure 300x) Rob posted himself; the rest are the makers' own product shots, standing
-// in until Rob photographs his own gear. sources are in RESEARCH.md.
+// in until Rob photographs his own gear.
 // get Rob's OK before launch, and swap the stock ones for his own shots as he takes them.
 //
 // files live in public/images; drop a .jpg in there and run `npm run images`.

@@ -1,7 +1,5 @@
 // everything about the business that shows up in more than one place:
 // name, address, phone, hours, links. change it here and every page follows.
-//
-// sources for each fact, and what still needs confirming with Rob, are in RESEARCH.md.
 
 /**
  * the address the site will live at. used for canonical links, the sitemap,

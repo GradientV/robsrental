@@ -1,7 +1,7 @@
 // how renting works, plus the questions people ask before their first rental.
 // the process comes from the Google and Facebook listings ("by appointment, just call
-// or text", "delivery or pickup in NYC"). the policy answers marked in RESEARCH.md
-// are placeholders until Rob confirms how he handles them.
+// or text", "delivery or pickup in NYC"). some policy answers are placeholders
+// until Rob confirms how he handles them.
 import Seo from '@/components/Seo';
 import { ButtonAnchor, ButtonLink } from '@/components/ui/Button';
 import Photo from '@/components/ui/Photo';
